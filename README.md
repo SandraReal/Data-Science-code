@@ -8,3 +8,6 @@ Data science repository with code testing
 ### Sub-sub-section
 
 Markdown document
+
+SANDRA TE VAMOS A BORRAR TODOS LOS FICHEROS
+Equipo FASHION-RETAIL
